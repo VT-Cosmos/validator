@@ -1,5 +1,5 @@
 # validator
-**Directory for GovNo and AtomOne Validators**
+**Directory for GovGen and AtomOne Validators**
 
 The GovNo and AtomOne Validators directory is a space to build a registry of GovNo and AtomOne validators for the community. A comprehensive list of validators, with information on who they are and how to get in touch, will make it easier for the validators community to engage directly with one another, coordinate upcoming tasks, and collaborate more efficiently. This directory is also a great space to discuss validated proposals in regard to operating requirements, upcoming issues, implementation ideas, or proposed solutions.
 
